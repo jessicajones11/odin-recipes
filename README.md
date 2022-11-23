@@ -1,1 +1,2 @@
 # odin-recipes
+In this project, I'm going to learn how to properly implement HTML elements in creating a webpage. I'm going to practice using my command line skills to help these changes come to life. 
